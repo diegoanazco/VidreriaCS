@@ -1,0 +1,11 @@
+com\gpch\login\model\User.class
+com\gpch\login\LoginApplication.class
+com\gpch\login\model\User$UserBuilder.class
+com\gpch\login\service\UserService.class
+com\gpch\login\model\Role.class
+com\gpch\login\configuration\WebMvcConfig.class
+com\gpch\login\configuration\SecurityConfiguration.class
+com\gpch\login\service\UserServiceTest.class
+com\gpch\login\repository\RoleRepository.class
+com\gpch\login\repository\UserRepository.class
+com\gpch\login\controller\LoginController.class
