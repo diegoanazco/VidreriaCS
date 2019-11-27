@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: LoginSecurityTutorial
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: hp
+Implementation-Vendor-Id: com.cristianruizblog
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/LoginSecurityTutorial
+Created-By: Maven Integration for Eclipse
+
